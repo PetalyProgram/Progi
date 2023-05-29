@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Cuccok\Programozás\Progi\Progi\bin\Debug\Progi.exe.config
+C:\Users\user\Desktop\Cuccok\Programozás\Progi\Progi\bin\Debug\Progi.exe
+C:\Users\user\Desktop\Cuccok\Programozás\Progi\Progi\bin\Debug\Progi.pdb
+C:\Users\user\Desktop\Cuccok\Programozás\Progi\Progi\obj\Debug\Progi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Cuccok\Programozás\Progi\Progi\obj\Debug\Progi.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Cuccok\Programozás\Progi\Progi\obj\Debug\Progi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Cuccok\Programozás\Progi\Progi\obj\Debug\Progi.exe
+C:\Users\user\Desktop\Cuccok\Programozás\Progi\Progi\obj\Debug\Progi.pdb
